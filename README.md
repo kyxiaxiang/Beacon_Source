@@ -1,5 +1,10 @@
 # Cobalt Strike Beacon
 
+------
+I should add that this is a code that is still in its infancy and cannot be used out of the box. More people are welcome to make corrections and additions to it. Technology shouldn’t be closed, right?
+
+------
+
 ## Overview
 
 This is a project I have saved on my computer, I just didn't think I should keep it private since I can no longer find it anywhere on the internet. This project aims to provide a fully functional, from-scratch alternative to the Cobalt Strike Beacon, providing transparency and flexibility to security professionals and enthusiasts.
